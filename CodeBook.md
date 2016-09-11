@@ -1,9 +1,7 @@
 DATA DICTIONARY FOR UCI HAR Dataset
 
-AL
-
 Activity Labels
-In the study were performed 6 activities.  All activity labeled with a number between one to 6 in the following way:
+In the study were performed 6 activities.  All activity labelled with a number between one to 6 in the following way:
 
 1. WALKING
 2. WALKING UPSTAIRS
@@ -50,17 +48,17 @@ the other values as,
 4.  max(): Largest value in array
 5.  min(): Smallest value in array
 6.  sma(): Signal magnitude area
-7.  energy(): Energy measure. Sum of the squares divided by the number of values. 
+7.  energy(): Energy measure. The sum of the squares divided by the number of values. 
 8.  iqr(): Interquartile range 
 9.  entropy(): Signal entropy
-10. arCoeff(): Autorregresion coefficients with Burg order equal to 4
+10. arCoeff(): Autoregression coefficients with Burg order equal to 4
 11. correlation(): correlation coefficient between two signals
-12. maxInds(): index of the frequency component with largest magnitude
+12. maxInds(): index of the frequency component with the largest magnitude
 13. meanFreq(): Weighted average of the frequency components to obtain a mean frequency
 14. skewness(): skewness of the frequency domain signal 
 15. kurtosis(): kurtosis of the frequency domain signal 
 16. bandsEnergy(): Energy of a frequency interval within the 64 bins of the FFT of each window.
-17. angle(): Angle between to vectors.
+17. angle(): Angle between two vectors.
  
 are leave unchanged, in the same way as the levels of the factors, which contains the original names of the variables. 
 In the analysis performed analysis are obtained 561 variables + Volunteer Number + Activity Label.
