@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
-* Final project for thecourse Getting and Cleaning data, data science specialization.
-* 
+## Final project for thecourse Getting and Cleaning data, data science specialization.
+ 
 The data was obtained from:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
